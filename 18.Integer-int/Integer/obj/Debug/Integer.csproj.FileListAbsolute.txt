@@ -1,0 +1,10 @@
+D:\C#-Kodlari\KitapOrnekleri\18.Integer-int\Integer\bin\Debug\Integer.exe.config
+D:\C#-Kodlari\KitapOrnekleri\18.Integer-int\Integer\bin\Debug\Integer.exe
+D:\C#-Kodlari\KitapOrnekleri\18.Integer-int\Integer\bin\Debug\Integer.pdb
+D:\C#-Kodlari\KitapOrnekleri\18.Integer-int\Integer\obj\Debug\Integer.csprojAssemblyReference.cache
+D:\C#-Kodlari\KitapOrnekleri\18.Integer-int\Integer\obj\Debug\Integer.Form1.resources
+D:\C#-Kodlari\KitapOrnekleri\18.Integer-int\Integer\obj\Debug\Integer.Properties.Resources.resources
+D:\C#-Kodlari\KitapOrnekleri\18.Integer-int\Integer\obj\Debug\Integer.csproj.GenerateResource.cache
+D:\C#-Kodlari\KitapOrnekleri\18.Integer-int\Integer\obj\Debug\Integer.csproj.CoreCompileInputs.cache
+D:\C#-Kodlari\KitapOrnekleri\18.Integer-int\Integer\obj\Debug\Integer.exe
+D:\C#-Kodlari\KitapOrnekleri\18.Integer-int\Integer\obj\Debug\Integer.pdb
