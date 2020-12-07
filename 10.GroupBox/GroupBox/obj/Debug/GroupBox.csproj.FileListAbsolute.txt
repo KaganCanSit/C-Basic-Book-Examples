@@ -1,0 +1,10 @@
+D:\C#-Kodlari\KitapOrnekleri\10.GroupBox\GroupBox\bin\Debug\GroupBox.exe.config
+D:\C#-Kodlari\KitapOrnekleri\10.GroupBox\GroupBox\bin\Debug\GroupBox.exe
+D:\C#-Kodlari\KitapOrnekleri\10.GroupBox\GroupBox\bin\Debug\GroupBox.pdb
+D:\C#-Kodlari\KitapOrnekleri\10.GroupBox\GroupBox\obj\Debug\GroupBox.csprojAssemblyReference.cache
+D:\C#-Kodlari\KitapOrnekleri\10.GroupBox\GroupBox\obj\Debug\GroupBox.Form1.resources
+D:\C#-Kodlari\KitapOrnekleri\10.GroupBox\GroupBox\obj\Debug\GroupBox.Properties.Resources.resources
+D:\C#-Kodlari\KitapOrnekleri\10.GroupBox\GroupBox\obj\Debug\GroupBox.csproj.GenerateResource.cache
+D:\C#-Kodlari\KitapOrnekleri\10.GroupBox\GroupBox\obj\Debug\GroupBox.csproj.CoreCompileInputs.cache
+D:\C#-Kodlari\KitapOrnekleri\10.GroupBox\GroupBox\obj\Debug\GroupBox.exe
+D:\C#-Kodlari\KitapOrnekleri\10.GroupBox\GroupBox\obj\Debug\GroupBox.pdb
