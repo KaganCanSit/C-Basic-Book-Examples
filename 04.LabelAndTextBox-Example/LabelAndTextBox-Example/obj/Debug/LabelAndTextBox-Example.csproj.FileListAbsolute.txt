@@ -1,0 +1,10 @@
+D:\C#-Kodlari\KitapOrnekleri\04.LabelAndTextBox-Example\LabelAndTextBox-Example\bin\Debug\LabelAndTextBox-Example.exe.config
+D:\C#-Kodlari\KitapOrnekleri\04.LabelAndTextBox-Example\LabelAndTextBox-Example\bin\Debug\LabelAndTextBox-Example.exe
+D:\C#-Kodlari\KitapOrnekleri\04.LabelAndTextBox-Example\LabelAndTextBox-Example\bin\Debug\LabelAndTextBox-Example.pdb
+D:\C#-Kodlari\KitapOrnekleri\04.LabelAndTextBox-Example\LabelAndTextBox-Example\obj\Debug\LabelAndTextBox-Example.csprojAssemblyReference.cache
+D:\C#-Kodlari\KitapOrnekleri\04.LabelAndTextBox-Example\LabelAndTextBox-Example\obj\Debug\LabelAndTextBox_Example.Form1.resources
+D:\C#-Kodlari\KitapOrnekleri\04.LabelAndTextBox-Example\LabelAndTextBox-Example\obj\Debug\LabelAndTextBox_Example.Properties.Resources.resources
+D:\C#-Kodlari\KitapOrnekleri\04.LabelAndTextBox-Example\LabelAndTextBox-Example\obj\Debug\LabelAndTextBox-Example.csproj.GenerateResource.cache
+D:\C#-Kodlari\KitapOrnekleri\04.LabelAndTextBox-Example\LabelAndTextBox-Example\obj\Debug\LabelAndTextBox-Example.csproj.CoreCompileInputs.cache
+D:\C#-Kodlari\KitapOrnekleri\04.LabelAndTextBox-Example\LabelAndTextBox-Example\obj\Debug\LabelAndTextBox-Example.exe
+D:\C#-Kodlari\KitapOrnekleri\04.LabelAndTextBox-Example\LabelAndTextBox-Example\obj\Debug\LabelAndTextBox-Example.pdb
