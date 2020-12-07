@@ -1,0 +1,10 @@
+D:\C#-Kodlari\KitapOrnekleri\14.String\String\bin\Debug\String.exe.config
+D:\C#-Kodlari\KitapOrnekleri\14.String\String\bin\Debug\String.exe
+D:\C#-Kodlari\KitapOrnekleri\14.String\String\bin\Debug\String.pdb
+D:\C#-Kodlari\KitapOrnekleri\14.String\String\obj\Debug\String.csprojAssemblyReference.cache
+D:\C#-Kodlari\KitapOrnekleri\14.String\String\obj\Debug\String.Form1.resources
+D:\C#-Kodlari\KitapOrnekleri\14.String\String\obj\Debug\String.Properties.Resources.resources
+D:\C#-Kodlari\KitapOrnekleri\14.String\String\obj\Debug\String.csproj.GenerateResource.cache
+D:\C#-Kodlari\KitapOrnekleri\14.String\String\obj\Debug\String.csproj.CoreCompileInputs.cache
+D:\C#-Kodlari\KitapOrnekleri\14.String\String\obj\Debug\String.exe
+D:\C#-Kodlari\KitapOrnekleri\14.String\String\obj\Debug\String.pdb

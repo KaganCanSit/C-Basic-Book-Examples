@@ -1,0 +1,9 @@
+D:\C#-Kodlari\KitapOrnekleri\15.String-2\String-2\bin\Debug\String-2.exe.config
+D:\C#-Kodlari\KitapOrnekleri\15.String-2\String-2\bin\Debug\String-2.exe
+D:\C#-Kodlari\KitapOrnekleri\15.String-2\String-2\bin\Debug\String-2.pdb
+D:\C#-Kodlari\KitapOrnekleri\15.String-2\String-2\obj\Debug\String_2.Form1.resources
+D:\C#-Kodlari\KitapOrnekleri\15.String-2\String-2\obj\Debug\String_2.Properties.Resources.resources
+D:\C#-Kodlari\KitapOrnekleri\15.String-2\String-2\obj\Debug\String-2.csproj.GenerateResource.cache
+D:\C#-Kodlari\KitapOrnekleri\15.String-2\String-2\obj\Debug\String-2.csproj.CoreCompileInputs.cache
+D:\C#-Kodlari\KitapOrnekleri\15.String-2\String-2\obj\Debug\String-2.exe
+D:\C#-Kodlari\KitapOrnekleri\15.String-2\String-2\obj\Debug\String-2.pdb
