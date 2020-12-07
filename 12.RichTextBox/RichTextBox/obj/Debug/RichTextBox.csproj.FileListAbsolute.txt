@@ -1,0 +1,9 @@
+D:\C#-Kodlari\KitapOrnekleri\12.RichTextBox\RichTextBox\bin\Debug\RichTextBox.exe.config
+D:\C#-Kodlari\KitapOrnekleri\12.RichTextBox\RichTextBox\bin\Debug\RichTextBox.exe
+D:\C#-Kodlari\KitapOrnekleri\12.RichTextBox\RichTextBox\bin\Debug\RichTextBox.pdb
+D:\C#-Kodlari\KitapOrnekleri\12.RichTextBox\RichTextBox\obj\Debug\RichTextBox.Form1.resources
+D:\C#-Kodlari\KitapOrnekleri\12.RichTextBox\RichTextBox\obj\Debug\RichTextBox.Properties.Resources.resources
+D:\C#-Kodlari\KitapOrnekleri\12.RichTextBox\RichTextBox\obj\Debug\RichTextBox.csproj.GenerateResource.cache
+D:\C#-Kodlari\KitapOrnekleri\12.RichTextBox\RichTextBox\obj\Debug\RichTextBox.csproj.CoreCompileInputs.cache
+D:\C#-Kodlari\KitapOrnekleri\12.RichTextBox\RichTextBox\obj\Debug\RichTextBox.exe
+D:\C#-Kodlari\KitapOrnekleri\12.RichTextBox\RichTextBox\obj\Debug\RichTextBox.pdb
