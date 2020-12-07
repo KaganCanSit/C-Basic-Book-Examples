@@ -1,0 +1,9 @@
+D:\C#-Kodlari\KitapOrnekleri\16.String-3\String-3\bin\Debug\String-3.exe.config
+D:\C#-Kodlari\KitapOrnekleri\16.String-3\String-3\bin\Debug\String-3.exe
+D:\C#-Kodlari\KitapOrnekleri\16.String-3\String-3\bin\Debug\String-3.pdb
+D:\C#-Kodlari\KitapOrnekleri\16.String-3\String-3\obj\Debug\String_3.Properties.Resources.resources
+D:\C#-Kodlari\KitapOrnekleri\16.String-3\String-3\obj\Debug\String-3.csproj.GenerateResource.cache
+D:\C#-Kodlari\KitapOrnekleri\16.String-3\String-3\obj\Debug\String-3.csproj.CoreCompileInputs.cache
+D:\C#-Kodlari\KitapOrnekleri\16.String-3\String-3\obj\Debug\String-3.exe
+D:\C#-Kodlari\KitapOrnekleri\16.String-3\String-3\obj\Debug\String-3.pdb
+D:\C#-Kodlari\KitapOrnekleri\16.String-3\String-3\obj\Debug\String_3.AddBook.resources
