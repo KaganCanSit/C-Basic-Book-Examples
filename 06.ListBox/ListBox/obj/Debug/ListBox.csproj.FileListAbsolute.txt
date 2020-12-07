@@ -1,0 +1,10 @@
+D:\C#-Kodlari\KitapOrnekleri\06.ListBox\ListBox\bin\Debug\ListBox.exe.config
+D:\C#-Kodlari\KitapOrnekleri\06.ListBox\ListBox\bin\Debug\ListBox.exe
+D:\C#-Kodlari\KitapOrnekleri\06.ListBox\ListBox\bin\Debug\ListBox.pdb
+D:\C#-Kodlari\KitapOrnekleri\06.ListBox\ListBox\obj\Debug\ListBox.csprojAssemblyReference.cache
+D:\C#-Kodlari\KitapOrnekleri\06.ListBox\ListBox\obj\Debug\ListBox.Form1.resources
+D:\C#-Kodlari\KitapOrnekleri\06.ListBox\ListBox\obj\Debug\ListBox.Properties.Resources.resources
+D:\C#-Kodlari\KitapOrnekleri\06.ListBox\ListBox\obj\Debug\ListBox.csproj.GenerateResource.cache
+D:\C#-Kodlari\KitapOrnekleri\06.ListBox\ListBox\obj\Debug\ListBox.csproj.CoreCompileInputs.cache
+D:\C#-Kodlari\KitapOrnekleri\06.ListBox\ListBox\obj\Debug\ListBox.exe
+D:\C#-Kodlari\KitapOrnekleri\06.ListBox\ListBox\obj\Debug\ListBox.pdb

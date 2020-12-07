@@ -16,5 +16,11 @@ namespace ListBox
         {
             InitializeComponent();
         }
+
+        //Uygulama9: ListBox'a TextBox'dan item ekleme.
+        private void AddBttn_Click(object sender, EventArgs e)
+        {
+            listBox1.Items.Add(AddBox.Text);
+        }
     }
 }
