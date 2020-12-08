@@ -22,7 +22,14 @@ namespace OperatorExamples
         karşılaştırma yapabilmemizi(Mantıksal Operatörler),atama yapabilmezi vb. birçok işlemi sağlayan yapılardır.
         Örn: Aritmetik Operatörler 5 Ana Maddeden Oluşur;
             -Toplama - Çıkarma - Çarpma - Bölme -Mod Alma -Eşittir -Büyük Eşit/Küçük Eşit -Eşit Değildir(!=)
-        */
+            
+        (Bunlar bir sonraki karar yapıları içerisinde fazlaca yer alacak. Oradan ayrıca incelenebilir.)
+        Ek olarak: && (Ve) Operatörü iki durum sağlıyorsa işlem gerçekleşir.
+                       || (Veya) Operatörü iki durumdan biri doğruysa işlemi gerçekleştir.
+                       = Atama Operatörü
+                       =+ =- İşlemleri hızlı bir şekilde gerçekleştirmemizi sağlar. Örn: sayi=sayi+4 yeri sayi=+4 yazarız.
+                       ?: (Koşul) Operatörü Örn: "e" ? "Doğruysa burayı" : "Yanlışsa burayı" gerçekleştir.
+         */
 
         //Bazı Operatörlerin Basit Kullanımları
         private void CalculateButton_Click(object sender, EventArgs e)
