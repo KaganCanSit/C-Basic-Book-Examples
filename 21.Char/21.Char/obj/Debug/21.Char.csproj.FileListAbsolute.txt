@@ -1,0 +1,10 @@
+D:\C#-Kodlari\KitapOrnekleri\21.Char\21.Char\bin\Debug\21.Char.exe.config
+D:\C#-Kodlari\KitapOrnekleri\21.Char\21.Char\bin\Debug\21.Char.exe
+D:\C#-Kodlari\KitapOrnekleri\21.Char\21.Char\bin\Debug\21.Char.pdb
+D:\C#-Kodlari\KitapOrnekleri\21.Char\21.Char\obj\Debug\_21.Char.BasicChar.resources
+D:\C#-Kodlari\KitapOrnekleri\21.Char\21.Char\obj\Debug\_21.Char.Properties.Resources.resources
+D:\C#-Kodlari\KitapOrnekleri\21.Char\21.Char\obj\Debug\21.Char.csproj.GenerateResource.cache
+D:\C#-Kodlari\KitapOrnekleri\21.Char\21.Char\obj\Debug\21.Char.csproj.CoreCompileInputs.cache
+D:\C#-Kodlari\KitapOrnekleri\21.Char\21.Char\obj\Debug\21.Char.exe
+D:\C#-Kodlari\KitapOrnekleri\21.Char\21.Char\obj\Debug\21.Char.pdb
+D:\C#-Kodlari\KitapOrnekleri\21.Char\21.Char\obj\Debug\21.Char.csprojAssemblyReference.cache
