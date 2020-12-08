@@ -1,0 +1,10 @@
+D:\C#-Kodlari\KitapOrnekleri\19.GetValueFromTheKeyboard\GetValueFromTheKeyboard\bin\Debug\GetValueFromTheKeyboard.exe.config
+D:\C#-Kodlari\KitapOrnekleri\19.GetValueFromTheKeyboard\GetValueFromTheKeyboard\bin\Debug\GetValueFromTheKeyboard.exe
+D:\C#-Kodlari\KitapOrnekleri\19.GetValueFromTheKeyboard\GetValueFromTheKeyboard\bin\Debug\GetValueFromTheKeyboard.pdb
+D:\C#-Kodlari\KitapOrnekleri\19.GetValueFromTheKeyboard\GetValueFromTheKeyboard\obj\Debug\GetValueFromTheKeyboard.csprojAssemblyReference.cache
+D:\C#-Kodlari\KitapOrnekleri\19.GetValueFromTheKeyboard\GetValueFromTheKeyboard\obj\Debug\GetValueFromTheKeyboard.Properties.Resources.resources
+D:\C#-Kodlari\KitapOrnekleri\19.GetValueFromTheKeyboard\GetValueFromTheKeyboard\obj\Debug\GetValueFromTheKeyboard.csproj.GenerateResource.cache
+D:\C#-Kodlari\KitapOrnekleri\19.GetValueFromTheKeyboard\GetValueFromTheKeyboard\obj\Debug\GetValueFromTheKeyboard.csproj.CoreCompileInputs.cache
+D:\C#-Kodlari\KitapOrnekleri\19.GetValueFromTheKeyboard\GetValueFromTheKeyboard\obj\Debug\GetValueFromTheKeyboard.exe
+D:\C#-Kodlari\KitapOrnekleri\19.GetValueFromTheKeyboard\GetValueFromTheKeyboard\obj\Debug\GetValueFromTheKeyboard.pdb
+D:\C#-Kodlari\KitapOrnekleri\19.GetValueFromTheKeyboard\GetValueFromTheKeyboard\obj\Debug\GetValueFromTheKeyboard.BasicApps.resources
