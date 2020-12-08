@@ -1,0 +1,9 @@
+D:\C#-Kodlari\KitapOrnekleri\22.Byte-Sbyte\Byte-Sbyte\bin\Debug\Byte-Sbyte.exe.config
+D:\C#-Kodlari\KitapOrnekleri\22.Byte-Sbyte\Byte-Sbyte\bin\Debug\Byte-Sbyte.exe
+D:\C#-Kodlari\KitapOrnekleri\22.Byte-Sbyte\Byte-Sbyte\bin\Debug\Byte-Sbyte.pdb
+D:\C#-Kodlari\KitapOrnekleri\22.Byte-Sbyte\Byte-Sbyte\obj\Debug\Byte_Sbyte.Form1.resources
+D:\C#-Kodlari\KitapOrnekleri\22.Byte-Sbyte\Byte-Sbyte\obj\Debug\Byte_Sbyte.Properties.Resources.resources
+D:\C#-Kodlari\KitapOrnekleri\22.Byte-Sbyte\Byte-Sbyte\obj\Debug\Byte-Sbyte.csproj.GenerateResource.cache
+D:\C#-Kodlari\KitapOrnekleri\22.Byte-Sbyte\Byte-Sbyte\obj\Debug\Byte-Sbyte.csproj.CoreCompileInputs.cache
+D:\C#-Kodlari\KitapOrnekleri\22.Byte-Sbyte\Byte-Sbyte\obj\Debug\Byte-Sbyte.exe
+D:\C#-Kodlari\KitapOrnekleri\22.Byte-Sbyte\Byte-Sbyte\obj\Debug\Byte-Sbyte.pdb
