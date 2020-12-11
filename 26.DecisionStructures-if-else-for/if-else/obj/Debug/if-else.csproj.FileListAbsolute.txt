@@ -1,0 +1,10 @@
+D:\C#-Kodlari\KitapOrnekleri\26.DecisionStructures-if-else-for\if-else\bin\Debug\if-else.exe.config
+D:\C#-Kodlari\KitapOrnekleri\26.DecisionStructures-if-else-for\if-else\bin\Debug\if-else.exe
+D:\C#-Kodlari\KitapOrnekleri\26.DecisionStructures-if-else-for\if-else\bin\Debug\if-else.pdb
+D:\C#-Kodlari\KitapOrnekleri\26.DecisionStructures-if-else-for\if-else\obj\Debug\if-else.csprojAssemblyReference.cache
+D:\C#-Kodlari\KitapOrnekleri\26.DecisionStructures-if-else-for\if-else\obj\Debug\if_else.Properties.Resources.resources
+D:\C#-Kodlari\KitapOrnekleri\26.DecisionStructures-if-else-for\if-else\obj\Debug\if-else.csproj.GenerateResource.cache
+D:\C#-Kodlari\KitapOrnekleri\26.DecisionStructures-if-else-for\if-else\obj\Debug\if-else.csproj.CoreCompileInputs.cache
+D:\C#-Kodlari\KitapOrnekleri\26.DecisionStructures-if-else-for\if-else\obj\Debug\if-else.exe
+D:\C#-Kodlari\KitapOrnekleri\26.DecisionStructures-if-else-for\if-else\obj\Debug\if-else.pdb
+D:\C#-Kodlari\KitapOrnekleri\26.DecisionStructures-if-else-for\if-else\obj\Debug\if_else.IfElseForm.resources
