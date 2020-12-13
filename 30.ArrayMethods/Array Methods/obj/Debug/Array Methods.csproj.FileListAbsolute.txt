@@ -1,0 +1,10 @@
+D:\C#-Kodlari\KitapOrnekleri\30.ArrayMethods\Array Methods\bin\Debug\Array Methods.exe.config
+D:\C#-Kodlari\KitapOrnekleri\30.ArrayMethods\Array Methods\bin\Debug\Array Methods.exe
+D:\C#-Kodlari\KitapOrnekleri\30.ArrayMethods\Array Methods\bin\Debug\Array Methods.pdb
+D:\C#-Kodlari\KitapOrnekleri\30.ArrayMethods\Array Methods\obj\Debug\Array Methods.csprojAssemblyReference.cache
+D:\C#-Kodlari\KitapOrnekleri\30.ArrayMethods\Array Methods\obj\Debug\Array_Methods.Properties.Resources.resources
+D:\C#-Kodlari\KitapOrnekleri\30.ArrayMethods\Array Methods\obj\Debug\Array Methods.csproj.GenerateResource.cache
+D:\C#-Kodlari\KitapOrnekleri\30.ArrayMethods\Array Methods\obj\Debug\Array Methods.csproj.CoreCompileInputs.cache
+D:\C#-Kodlari\KitapOrnekleri\30.ArrayMethods\Array Methods\obj\Debug\Array Methods.exe
+D:\C#-Kodlari\KitapOrnekleri\30.ArrayMethods\Array Methods\obj\Debug\Array Methods.pdb
+D:\C#-Kodlari\KitapOrnekleri\30.ArrayMethods\Array Methods\obj\Debug\Array_Methods.ArrayMethods.resources
