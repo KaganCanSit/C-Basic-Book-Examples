@@ -1,0 +1,10 @@
+D:\C#-Kodlari\KitapOrnekleri\29.Arrays\Array\bin\Debug\Array.exe.config
+D:\C#-Kodlari\KitapOrnekleri\29.Arrays\Array\bin\Debug\Array.exe
+D:\C#-Kodlari\KitapOrnekleri\29.Arrays\Array\bin\Debug\Array.pdb
+D:\C#-Kodlari\KitapOrnekleri\29.Arrays\Array\obj\Debug\Array.csprojAssemblyReference.cache
+D:\C#-Kodlari\KitapOrnekleri\29.Arrays\Array\obj\Debug\Array.Properties.Resources.resources
+D:\C#-Kodlari\KitapOrnekleri\29.Arrays\Array\obj\Debug\Array.csproj.GenerateResource.cache
+D:\C#-Kodlari\KitapOrnekleri\29.Arrays\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+D:\C#-Kodlari\KitapOrnekleri\29.Arrays\Array\obj\Debug\Array.exe
+D:\C#-Kodlari\KitapOrnekleri\29.Arrays\Array\obj\Debug\Array.pdb
+D:\C#-Kodlari\KitapOrnekleri\29.Arrays\Array\obj\Debug\Array.Array.resources
